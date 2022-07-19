@@ -7,11 +7,13 @@ public class TestNgPractice {
 	
 	@Test
 	public void CreateCustomer() {
-		Reporter.log("poorna",true);
+		System.out.println("pgfd");
+		System.out.println("poorna");
 	}
 	@Test
 	public void DeleteCustomer() {
-		Reporter.log("vidya",true);
+		System.out.println("xdfg");
+		System.out.println("ghjjk");
 	}
 
 }

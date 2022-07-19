@@ -9,6 +9,7 @@ public class TestNgPractice {
 	public void CreateCustomer() {
 		System.out.println("pgfd");
 		System.out.println("poorna");
+		System.out.println("pqewghgw");
 	}
 	@Test
 	public void DeleteCustomer() {

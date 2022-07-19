@@ -7,14 +7,18 @@ public class TestNgPractice {
 	
 	@Test
 	public void CreateCustomer() {
-		System.out.println("pgfd");
+		System.out.println("vijay");
 		System.out.println("poorna");
-		System.out.println("pqewghgw");
+		System.out.println("changed the status");
+		
+		
 	}
 	@Test
 	public void DeleteCustomer() {
-		System.out.println("xdfg");
-		System.out.println("ghjjk");
+		System.out.println("poorna");
+		System.out.println("vijay");
+		System.out.println("vijay");
+		
 	}
 
 }

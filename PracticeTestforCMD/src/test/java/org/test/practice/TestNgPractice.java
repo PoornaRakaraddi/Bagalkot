@@ -10,11 +10,15 @@ public class TestNgPractice {
 		System.out.println("pgfd");
 		System.out.println("poorna");
 		System.out.println("pqewghgw");
+		System.out.println("pavan");
+		System.out.println("vijay");
 	}
 	@Test
 	public void DeleteCustomer() {
 		System.out.println("xdfg");
 		System.out.println("ghjjk");
+		System.out.println("vijay");
+		System.out.println("india");
 	}
 
 }
